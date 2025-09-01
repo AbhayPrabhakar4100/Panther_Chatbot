@@ -46,11 +46,4 @@ This leads to confusion, delays, and poor decision-making.
 
 Accessible to **students, faculty, and instructors** for demo, feedback, and evaluation.  
 
----
 
-## ⚙️ Setup Instructions
-
-Clone the repository:
-```bash
-git clone https://github.com/Harshalk2002/Chat_bot.git
-cd Chat_bot
