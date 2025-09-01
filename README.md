@@ -42,7 +42,7 @@ This leads to confusion, delays, and poor decision-making.
 ---
 
 ## 🚀 Live Application
-👉 [**Click Here to Try PantherBot**](#)  
+👉 click here to try the panther bot- https://pantherbot.streamlit.app/ 
 
 Accessible to **students, faculty, and instructors** for demo, feedback, and evaluation.  
 
